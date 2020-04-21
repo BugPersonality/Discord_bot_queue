@@ -130,4 +130,4 @@ async def discret(ctx, *, command):
 
             await ctx.send(embed=emb)
 
-client.run("Njk3Nzk1Nzg1NzM5MzM3NzQ4.Xo8fCg.H7h_2ORBRdZWCTsMLVEAZzp93fA")
+client.run("Ваш токен")
